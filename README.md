@@ -6,9 +6,11 @@ Vue移动端商城项目
 2. 采用Vue-router搭建项目路由；Vuex管理组件状态，来实现修改购物车数据；利用Vue-resource/GET通过API接口请求JSON数据并渲染，用POST存入新添加评论。
 3. 利用Vue.js 中的双向绑定，父子组件相互传值，来实现数据的传递与渲染
 4. 利用webpack打包。
-# Test
 
-图片示例：
+
+# 图片示例：
+
+
 ![image](https://github.com/qianggezhenshuai666/vue-Shangcheng/blob/master/images/IMG01.JPG)
 
 ![image](https://github.com/qianggezhenshuai666/vue-Shangcheng/blob/master/images/IMG02.JPG)
