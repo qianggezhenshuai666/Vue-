@@ -8,5 +8,7 @@ Vue移动端商城项目
 4. 利用webpack打包。
 # Test
 
-
+图片示例：
 ![image](https://github.com/qianggezhenshuai666/vue-Shangcheng/blob/master/images/IMG01.JPG)
+
+![image](https://github.com/qianggezhenshuai666/vue-Shangcheng/blob/master/images/IMG02.JPG)
